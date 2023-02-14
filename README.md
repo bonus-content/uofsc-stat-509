@@ -5,7 +5,7 @@ This repo houses the course examples (and more notably, their solutions) for pub
 # Status
 
 - &#x1F4D9; Chapter 2 In-Progress
-	- &#x1F535; Exercise 1 Started
+	- &#x1F4D7; Exercise 1 Complete
 	- &#x1F534; Exercise 2 Not Started
 	- &#x1F534; Exercise 3 Not Started
 	- &#x1F534; Exercise 4 Not Started

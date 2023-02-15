@@ -7,7 +7,7 @@ This repo houses the course examples (and more notably, their solutions) for pub
 - &#x1F4D9; Chapter 2 In-Progress
 	- &#x1F4D7; Exercise 1 Complete
 	- &#x1F4D7; Exercise 2 Complete
-	- &#x1F534; Exercise 3 Not Started
+	- &#x1F535; Exercise 3 Started
 	- &#x1F534; Exercise 4 Not Started
 	- &#x1F534; Exercise 5 Not Started
 	- &#x1F534; Exercise 6 Not Started
